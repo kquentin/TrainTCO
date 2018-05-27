@@ -1,0 +1,37 @@
+{
+  "name": "TrainTCO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9yr0/TrainTCO.git"
+  },
+  "author": {
+    "name": "KOLLAROS Quentin",
+    "email": "kollaros.quentin@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "SADEG Oussama",
+      "email": "sadeg.oussama@hotmail.fr"
+    },
+    {
+      "name": "SPINALI Anthony",
+      "email": "tonyspinali@outlook.fr"
+    },
+    {
+      "name": "TABET Damien",
+      "email": "tabetdamien@free.fr"
+    }
+  ],
+  "dependencies": {
+    "serialport": "^4.0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/9yr0/TrainTCO/issues"
+  }
+}
